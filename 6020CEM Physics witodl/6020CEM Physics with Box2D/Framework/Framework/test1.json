@@ -1,0 +1,41 @@
+{
+  "Level": "MKTestLevel.json",
+  "Player": {
+    "SetShape": "Circle",
+    "Radius": 50.0,
+    "SetShapeColor": "Magenta",
+    "PositionX": 0.0,
+    "PositionY": 0.0,
+    "StartSizeX": 100,
+    "StartSizeY": 100,
+    "StartPositionX": 0.0,
+    "StartPositionY": 0.0,
+    "LoadMusic": "../Music/Heads will roll - Yeah Yeah Yeah [OFFICIAL MUSIC] ORIGINAL.ogg",
+    "LoadTex": "../Textures/Leon.jpg"
+  },
+  "Obstacle": {
+    "SetShape": "Rectangle",
+    "RectSizeX": 50.0,
+    "RectSizeY": 50.0,
+    "SetShapeColor": "Green",
+    "PositionX": 0.0,
+    "PositionY": 0.0,
+    "StartSizeX": 50,
+    "StartSizeY": 50,
+    "StartPositionX": 100.0,
+    "StartPositionY": 50.0,
+    "LoadTex": "../Textures/Saddler.jpg"
+  },
+  "Obstacle1": {
+    "SetShape": "Rectangle",
+    "RectSizeX": 50.0,
+    "RectSizeY": 50.0,
+    "SetShapeColor": "Green",
+    "PositionX": 0.0,
+    "PositionY": 0.0,
+    "StartSizeX": 50,
+    "StartSizeY": 50,
+    "StartPositionX": 400.0,
+    "StartPositionY": 150.0
+  }
+}
